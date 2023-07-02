@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:whatsapp_ui/auth/controller/auth_controller.dart';
+import 'package:whatsapp_ui/features/auth/controller/auth_controller.dart';
 import 'package:whatsapp_ui/colors.dart';
 
 class OtpScreen extends ConsumerWidget {
