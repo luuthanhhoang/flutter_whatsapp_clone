@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_ui/auth/screens/login_screen.dart';
-import 'package:whatsapp_ui/auth/screens/otp_screen.dart';
-import 'package:whatsapp_ui/auth/screens/user_information_screen.dart';
+import 'package:whatsapp_ui/features/auth/screens/login_screen.dart';
+import 'package:whatsapp_ui/features/auth/screens/otp_screen.dart';
+import 'package:whatsapp_ui/features/auth/screens/user_information_screen.dart';
 import 'package:whatsapp_ui/common/widgets/error_screen.dart';
 
 Route<dynamic> generateRoute(RouteSettings settings) {
