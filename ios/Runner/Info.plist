@@ -26,6 +26,8 @@
 	<string>Camera Use</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Microphone Use</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Reason we need access to the contact list</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
